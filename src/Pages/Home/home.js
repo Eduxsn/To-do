@@ -72,7 +72,6 @@ const styles = StyleSheet.create({
         justifyContent: 'space-around',
         alignItems: 'center',
         flexDirection: 'row',
-        marginLeft:20
 
     },
     input: {
